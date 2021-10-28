@@ -1,0 +1,768 @@
+{
+	"Objects": [{
+			"path": "UserInterface/QuickMenu/ShortcutMenu/WorldsButton/Text",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/ShortcutMenu/AvatarButton/Text",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/ShortcutMenu/SocialButton/Text",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/ShortcutMenu/SafetyButton/Text",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/ShortcutMenu/GoHomeButton/Text",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/ShortcutMenu/RespawnButton/Text",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/ShortcutMenu/SettingsButton/Text",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/ShortcutMenu/UIElementsButton/Text",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/ShortcutMenu/CameraButton/Text",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/ShortcutMenu/EmoteButton/Text",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/ShortcutMenu/EmojiButton/Text",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/ShortcutMenu/ReportWorldButton/Text",
+			"lang": ""
+			"component": "Text"
+		},
+
+		{
+			"path": "UserInterface/QuickMenu/ShortcutMenu/SitButton/Toggle_States_StandingEnabled/OFF/Text_standing",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/ShortcutMenu/SitButton/Toggle_States_StandingEnabled/ON/Text_standing",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/ShortcutMenu/SitButton/Toggle_States_StandingEnabled/OFF/Text_seated",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/ShortcutMenu/SitButton/Toggle_States_StandingEnabled/ON/Text_seated",
+			"lang": ""
+			"component": "Text"
+		},
+
+		{
+			"path": "UserInterface/QuickMenu/QuickModeMenus/QuickModeNotificationsMenu/NotificationTabs/InvitesTab/Text",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/QuickModeMenus/QuickModeNotificationsMenu/NotificationTabs/FriendRequestsTab/Text",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/QuickModeMenus/QuickModeNotificationsMenu/NotificationTabs/OtherTab/Text",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/UserInteractMenu/DetailsButton/Text",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/UserInteractMenu/CloneAvatarButton/Text",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/UserInteractMenu/ShowAuthorButton/Text",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/UserInteractMenu/BackButton/Text",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/UserInteractMenu/BlockButton/Toggle_States_Visible/ON/Text_Visible",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/UserInteractMenu/BlockButton/Toggle_States_Visible/OFF/Text_Visible",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/UserInteractMenu/BlockButton/Toggle_States_Visible/ON/Text_Blocked",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/UserInteractMenu/BlockButton/Toggle_States_Visible/OFF/Text_Blocked",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/UserInteractMenu/ViewAvatarThreeToggle/Button_ShowAvatar/ToggleStates_ShowAvatar/OFF/Text",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/UserInteractMenu/ViewAvatarThreeToggle/Button_ShowAvatar/ToggleStates_ShowAvatar/ON/Text",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/UserInteractMenu/ViewAvatarThreeToggle/Button_HideAvatar/ToggleStates_HideAvatar/OFF/Text",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/UserInteractMenu/ViewAvatarThreeToggle/Button_HideAvatar/ToggleStates_HideAvatar/ON/Text",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/UserInteractMenu/ViewAvatarThreeToggle/Button_UseSafetySettings/ToggleStates_UseSafetySettings/OFF/Text",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/UserInteractMenu/ViewAvatarThreeToggle/Button_UseSafetySettings/ToggleStates_UseSafetySettings/ON/Text",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/UserInteractMenu/User Volume/VolumeText",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/UserInteractMenu/User Volume/Raise/Text",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/UserInteractMenu/User Volume/Lower/Text",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/UserInteractMenu/User Volume/Reset/Text",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/UserInteractMenu/MuteButton/Toggle_States_Voice/ON/Text_AudioOn",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/UserInteractMenu/MuteButton/Toggle_States_Voice/OFF/Text_AudioOn",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/UserInteractMenu/MuteButton/Toggle_States_Voice/ON/Text_Muted",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/UserInteractMenu/MuteButton/Toggle_States_Voice/OFF/Text_Muted",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/UserInteractMenu/ShowAvatarStatsButton/Text",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/UserInteractMenu/ViewPlaylistsButton/Text",
+			"lang": ""
+			"component": "Text"
+		},
+
+		{
+			"path": "UserInterface/MenuContent/Backdrop/Header/Tabs/ViewPort/Content/VRC+PageTab/Button/Text",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Backdrop/Header/Tabs/ViewPort/Content/WorldsPageTab/Button/Text",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Backdrop/Header/Tabs/ViewPort/Content/AvatarPageTab/Button/Text",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Backdrop/Header/Tabs/ViewPort/Content/SocialPageTab/Button/Text",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Backdrop/Header/Tabs/ViewPort/Content/SettingsPageTab/Button/Text",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Backdrop/Header/Tabs/ViewPort/Content/SafetyPageTab/Button/Text",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Backdrop/Header/Tabs/ViewPort/Content/Search/InputField/Placeholder",
+			"lang": ""
+			"component": "Text"
+		},
+
+		{
+			"path": "UserInterface/MenuContent/Screens/Social/UserProfileAndStatusSection/ViewProfileButton/Text",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/UserInfo/Buttons/RightSideButtons/RightUpperButtonColumn/PlaylistsButton/Image/Text",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/UserInfo/Buttons/RightSideButtons/RightUpperButtonColumn/EditBioButton/Image/Text",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/UserInfo/Buttons/RightSideButtons/RightUpperButtonColumn/EditStatusButton/Image/Text",
+			"lang": ""
+			"component": "Text"
+		},
+
+		{
+			"path": "UserInterface/MenuContent/Screens/Social/UserProfileAndStatusSection/Status/EditStatusButton/Text",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Popups/UpdateStatusPopup/Popup/StatusSettings/JoinMeStatus/Description",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Popups/UpdateStatusPopup/Popup/StatusSettings/OnlineStatus/Description",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Popups/UpdateStatusPopup/Popup/StatusSettings/AskMeStatus/Description",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Popups/UpdateStatusPopup/Popup/StatusSettings/DoNotDisturbStatus/Description",
+			"lang": ""
+			"component": "Text"
+		},
+
+		{
+			"path": "UserInterface/MenuContent/Screens/Social/Vertical Scroll View/Viewport/Content/InRoom/Button/TitleText",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Social/Vertical Scroll View/Viewport/Content/OnlineFriends/Button/TitleText",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Social/Vertical Scroll View/Viewport/Content/OfflineFriends/Button/TitleText",
+			"lang": ""
+			"component": "Text"
+		},
+
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/TitlePanel/TitleText",
+			"lang": ""
+			"component": "Text"
+		},
+
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/Button_EditBindings/Text",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/Button_AdvancedOptions/Text",
+			"lang": ""
+			"component": "Text"
+		},
+
+		{
+			"path": "UserInterface/MenuContent/Popups/AdvancedSettingsPopup/Popup/Pages/Page_ClearData/Options/ClearCache/Button_Clear/Text",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Popups/AdvancedSettingsPopup/Popup/Pages/Page_ClearData/Options/ClearProfile/Text",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Popups/AdvancedSettingsPopup/Popup/Pages/Page_ClearData/Options/ClearAvatar/Text",
+			"lang": ""
+			"component": "Text"
+		},
+
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/ComfortSafetyPanel/TitleText (1)",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/ComfortSafetyPanel/HoloportToggle/Label",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/ComfortSafetyPanel/ComfortTurnToggle/Label",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/ComfortSafetyPanel/PersonalSpaceToggle/Label",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/ComfortSafetyPanel/AllowUntrustedURL/Label",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/ComfortSafetyPanel/StreamerModeToggle/Label",
+			"lang": ""
+			"component": "Text"
+		},
+
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/VoiceOptionsPanel/TitleText (1)",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/VoiceOptionsPanel/HardwareConfigToggle (1)/Label",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/VoiceOptionsPanel/HardwareConfigToggle (4)/Label",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/VoiceOptionsPanel/HardwareConfigToggle (6)/Label",
+			"lang": ""
+			"component": "Text"
+		},
+
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/VolumePanel/TitleText (1)",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/VolumePanel/VolumeMaster/Label",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/VolumePanel/VolumeUi/Label",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/VolumePanel/VolumeGameWorld/Label",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/VolumePanel/VolumeGameVoice/Label",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/VolumePanel/VolumeGameAvatars/Label",
+			"lang": ""
+			"component": "Text"
+		},
+
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/OtherOptionsPanel/TitleText (1)",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/OtherOptionsPanel/TooltipsToggle/Label",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/OtherOptionsPanel/3PRotationToggle/Label",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/OtherOptionsPanel/SkipGoButtonInLoad/Label",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/OtherOptionsPanel/AllowAvatarCopyingToggle/Label",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/OtherOptionsPanel/DesktopReticle/Label",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/OtherOptionsPanel/ViveAdvancedToggle/Label",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/OtherOptionsPanel/ShowCommunityLabsToggle/Label",
+			"lang": ""
+			"component": "Text"
+		},
+
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/AudioDevicePanel/TitleText",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/AudioDevicePanel/LevelText",
+			"lang": ""
+			"component": "Text"
+		},
+
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/MousePanel/TitleText",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/MousePanel/MouseSensitivityText",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/MousePanel/InvertedMouse/Label",
+			"lang": ""
+			"component": "Text"
+		},
+
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/HeightPanel/TitleText (1)",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/MousePanel/InvertedMouse/Label",
+			"lang": ""
+			"component": "Text"
+		},
+
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/UserVolumeOptions/Button_ClearChanges/Text",
+			"lang": ""
+			"component": "Text"
+		},
+
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/Footer/Logout/Text",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/Footer/Exit/Text",
+			"lang": ""
+			"component": "Text"
+		},
+
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings_Safety/TitlePanel/TitleText",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings_Safety/TitlePanel/Button_PerformanceOptions/Text",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings_Safety/_Buttons_SafetyLevel/Button_Maxiumum/ON/TopPanel_SafetyLevel/Text",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings_Safety/_Buttons_SafetyLevel/Button_Normal/ON/TopPanel_SafetyLevel/Text",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings_Safety/_Buttons_SafetyLevel/Button_None/ON/TopPanel_SafetyLevel/Text",
+			"lang": ""
+			"component": "Text"
+		},
+
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings_Safety/_Buttons_SafetyLevel/Button_Maxiumum/OFF/Text_Maximum",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings_Safety/_Buttons_SafetyLevel/Button_Maxiumum/ON/Text_Maximum",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings_Safety/_Description_SafetyLevel/Text",
+			"lang": ""
+			"component": "Text"
+		},
+
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings_Safety/_Buttons_SafetyLevel/Button_Normal/OFF/Text_normal",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings_Safety/_Buttons_SafetyLevel/Button_Normal/ON/Text_normal",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings_Safety/_Description_SafetyLevel/Text",
+			"lang": ""
+			"component": "Text"
+		},
+
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings_Safety/_Buttons_SafetyLevel/Button_None/OFF/Text_None",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings_Safety/_Buttons_SafetyLevel/Button_None/ON/Text_None",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings_Safety/_Description_SafetyLevel/Text",
+			"lang": ""
+			"component": "Text"
+		},
+
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings_Safety/_Buttons_SafetyLevel/Button_Custom/OFF/Text_Custom",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings_Safety/_Buttons_SafetyLevel/Button_Custom/ON/Text_Custom",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings_Safety/_Description_SafetyLevel/Text",
+			"lang": ""
+			"component": "Text"
+		},
+
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings_Safety/_Buttons_UserLevel/Button_Visitor/Text",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings_Safety/_Buttons_UserLevel/Button_New/Text",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings_Safety/_Buttons_UserLevel/Button_User/Text",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings_Safety/_Buttons_UserLevel/Button_Trusted/Text",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings_Safety/_Buttons_UserLevel/Button_Advanced/Text",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings_Safety/_Buttons_UserLevel/Button_Friends/Text",
+			"lang": ""
+			"component": "Text"
+		},
+
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings_Safety/_SafetyMatrix/_Toggles/Toggle_voice/Text_Header",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings_Safety/_SafetyMatrix/_Toggles/Toggle_Avatar/Text_Header",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings_Safety/_SafetyMatrix/_Toggles/Toggle_UserIcons/Text_Header",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings_Safety/_SafetyMatrix/_Toggles/Toggle_Audio/Text_Header",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings_Safety/_SafetyMatrix/_Toggles/Toggle_Particles/Text_Header",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings_Safety/_SafetyMatrix/_Toggles/Toggle_Shaders/Text_Header",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings_Safety/_SafetyMatrix/_Toggles/Toggle_CustomAnimations/Text_Header",
+			"lang": ""
+			"component": "Text"
+		},
+
+		{
+			"path": "UserInterface/MenuContent/Popups/PerformanceSettingsPopup/Popup/TitleText",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Popups/PerformanceSettingsPopup/Popup/PageButtons/ViewPort/Content/AvatarPerformance/Button/Text",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Popups/PerformanceSettingsPopup/Popup/Pages/Page_LimitAvatarPerformance/Options/PerformanceLimits/Text",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Popups/PerformanceSettingsPopup/Popup/Pages/Page_LimitAvatarPerformance/Options/Maximum Download Size/Text",
+			"lang": ""
+			"component": "Text"
+		},
+
+		{
+			"path": "UserInterface/MenuContent/Popups/PerformanceSettingsPopup/Popup/PageButtons/ViewPort/Content/DynamicBone/Button/Text",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Popups/PerformanceSettingsPopup/Popup/Pages/Page_LimitDynamicBone/Checkboxes/LimitDynamicBoneUsage/Description",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Popups/PerformanceSettingsPopup/Popup/Pages/Page_LimitDynamicBone/Tooltip_DynamicBone/Text",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Popups/PerformanceSettingsPopup/Popup/Pages/Page_LimitDynamicBone/Tooltip_Details/Text",
+			"lang": ""
+			"component": "Text"
+		},
+
+		{
+			"path": "UserInterface/MenuContent/Popups/PerformanceSettingsPopup/Popup/PageButtons/ViewPort/Content/AdvancedGraphics/Button/Text",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Popups/PerformanceSettingsPopup/Popup/Pages/Page_AdvancedGraphics/Options/Graphics Quality/Text",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Popups/PerformanceSettingsPopup/Popup/Pages/Page_AdvancedGraphics/Options/Antialiasing/Text",
+			"lang": ""
+			"component": "Text"
+		},
+
+		{
+			"path": "UserInterface/MenuContent/Screens/Avatar/Vertical Scroll View/Viewport/Content/Favorite Avatar List/Button/TitleText",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Avatar/Change Button/Label",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Avatar/Stats Button/Text",
+			"lang": ""
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Popups/StandardPopup/BodyText",
+			"lang": ""
+			"component": "Text"
+		}
+	]
+
+}
