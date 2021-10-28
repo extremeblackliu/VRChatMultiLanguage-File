@@ -2,4 +2,4 @@
 VRChatMultiLanguage Files
 
 # Current Supported
- - Chinese by me
+ - Language_CN.json(中文) by ExtremeBlackLiu
