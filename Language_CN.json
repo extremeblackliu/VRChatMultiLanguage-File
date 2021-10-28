@@ -1,0 +1,768 @@
+{
+	"Objects": [{
+			"path": "UserInterface/QuickMenu/ShortcutMenu/WorldsButton/Text",
+			"lang": "世界",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/ShortcutMenu/AvatarButton/Text",
+			"lang": "模型",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/ShortcutMenu/SocialButton/Text",
+			"lang": "好友",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/ShortcutMenu/SafetyButton/Text",
+			"lang": "安全",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/ShortcutMenu/GoHomeButton/Text",
+			"lang": "回家",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/ShortcutMenu/RespawnButton/Text",
+			"lang": "重生",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/ShortcutMenu/SettingsButton/Text",
+			"lang": "设置",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/ShortcutMenu/UIElementsButton/Text",
+			"lang": "UI设置",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/ShortcutMenu/CameraButton/Text",
+			"lang": "相机",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/ShortcutMenu/EmoteButton/Text",
+			"lang": "动作",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/ShortcutMenu/EmojiButton/Text",
+			"lang": "表情",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/ShortcutMenu/ReportWorldButton/Text",
+			"lang": "举报当前地图",
+			"component": "Text"
+		},
+
+		{
+			"path": "UserInterface/QuickMenu/ShortcutMenu/SitButton/Toggle_States_StandingEnabled/OFF/Text_standing",
+			"lang": "我正在站着玩",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/ShortcutMenu/SitButton/Toggle_States_StandingEnabled/ON/Text_standing",
+			"lang": "我正在站着玩",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/ShortcutMenu/SitButton/Toggle_States_StandingEnabled/OFF/Text_seated",
+			"lang": "我正在坐着玩",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/ShortcutMenu/SitButton/Toggle_States_StandingEnabled/ON/Text_seated",
+			"lang": "我正在坐着玩",
+			"component": "Text"
+		},
+
+		{
+			"path": "UserInterface/QuickMenu/QuickModeMenus/QuickModeNotificationsMenu/NotificationTabs/InvitesTab/Text",
+			"lang": "邀请",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/QuickModeMenus/QuickModeNotificationsMenu/NotificationTabs/FriendRequestsTab/Text",
+			"lang": "好友请求",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/QuickModeMenus/QuickModeNotificationsMenu/NotificationTabs/OtherTab/Text",
+			"lang": "其它",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/UserInteractMenu/DetailsButton/Text",
+			"lang": "用户个人资料",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/UserInteractMenu/CloneAvatarButton/Text",
+			"lang": "复制Ta的模型",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/UserInteractMenu/ShowAuthorButton/Text",
+			"lang": "查看Ta模型的作者",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/UserInteractMenu/BackButton/Text",
+			"lang": "返回",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/UserInteractMenu/BlockButton/Toggle_States_Visible/ON/Text_Visible",
+			"lang": "取消屏蔽",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/UserInteractMenu/BlockButton/Toggle_States_Visible/OFF/Text_Visible",
+			"lang": "取消屏蔽",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/UserInteractMenu/BlockButton/Toggle_States_Visible/ON/Text_Blocked",
+			"lang": "屏蔽",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/UserInteractMenu/BlockButton/Toggle_States_Visible/OFF/Text_Blocked",
+			"lang": "屏蔽",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/UserInteractMenu/ViewAvatarThreeToggle/Button_ShowAvatar/ToggleStates_ShowAvatar/OFF/Text",
+			"lang": "显示完整模型",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/UserInteractMenu/ViewAvatarThreeToggle/Button_ShowAvatar/ToggleStates_ShowAvatar/ON/Text",
+			"lang": "显示完整模型",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/UserInteractMenu/ViewAvatarThreeToggle/Button_HideAvatar/ToggleStates_HideAvatar/OFF/Text",
+			"lang": "关闭显示模型",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/UserInteractMenu/ViewAvatarThreeToggle/Button_HideAvatar/ToggleStates_HideAvatar/ON/Text",
+			"lang": "关闭显示模型",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/UserInteractMenu/ViewAvatarThreeToggle/Button_UseSafetySettings/ToggleStates_UseSafetySettings/OFF/Text",
+			"lang": "使用安全设置",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/UserInteractMenu/ViewAvatarThreeToggle/Button_UseSafetySettings/ToggleStates_UseSafetySettings/ON/Text",
+			"lang": "使用安全设置",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/UserInteractMenu/User Volume/VolumeText",
+			"lang": "语音音量",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/UserInteractMenu/User Volume/Raise/Text",
+			"lang": "音量+",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/UserInteractMenu/User Volume/Lower/Text",
+			"lang": "音量-",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/UserInteractMenu/User Volume/Reset/Text",
+			"lang": "重置音量",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/UserInteractMenu/MuteButton/Toggle_States_Voice/ON/Text_AudioOn",
+			"lang": "打开语音",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/UserInteractMenu/MuteButton/Toggle_States_Voice/OFF/Text_AudioOn",
+			"lang": "打开语音",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/UserInteractMenu/MuteButton/Toggle_States_Voice/ON/Text_Muted",
+			"lang": "屏蔽语音",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/UserInteractMenu/MuteButton/Toggle_States_Voice/OFF/Text_Muted",
+			"lang": "屏蔽语音",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/UserInteractMenu/ShowAvatarStatsButton/Text",
+			"lang": "显示Ta的模型等级",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/QuickMenu/UserInteractMenu/ViewPlaylistsButton/Text",
+			"lang": "查看Ta收藏的地图",
+			"component": "Text"
+		},
+
+		{
+			"path": "UserInterface/MenuContent/Backdrop/Header/Tabs/ViewPort/Content/VRC+PageTab/Button/Text",
+			"lang": "VRC+",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Backdrop/Header/Tabs/ViewPort/Content/WorldsPageTab/Button/Text",
+			"lang": "世界",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Backdrop/Header/Tabs/ViewPort/Content/AvatarPageTab/Button/Text",
+			"lang": "模型",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Backdrop/Header/Tabs/ViewPort/Content/SocialPageTab/Button/Text",
+			"lang": "好友",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Backdrop/Header/Tabs/ViewPort/Content/SettingsPageTab/Button/Text",
+			"lang": "设置",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Backdrop/Header/Tabs/ViewPort/Content/SafetyPageTab/Button/Text",
+			"lang": "安全",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Backdrop/Header/Tabs/ViewPort/Content/Search/InputField/Placeholder",
+			"lang": "搜索",
+			"component": "Text"
+		},
+
+		{
+			"path": "UserInterface/MenuContent/Screens/Social/UserProfileAndStatusSection/ViewProfileButton/Text",
+			"lang": "编辑个人资料",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/UserInfo/Buttons/RightSideButtons/RightUpperButtonColumn/PlaylistsButton/Image/Text",
+			"lang": "收藏的地图",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/UserInfo/Buttons/RightSideButtons/RightUpperButtonColumn/EditBioButton/Image/Text",
+			"lang": "编辑个性签名",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/UserInfo/Buttons/RightSideButtons/RightUpperButtonColumn/EditStatusButton/Image/Text",
+			"lang": "编辑个人状态",
+			"component": "Text"
+		},
+
+		{
+			"path": "UserInterface/MenuContent/Screens/Social/UserProfileAndStatusSection/Status/EditStatusButton/Text",
+			"lang": "编辑个人状态",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Popups/UpdateStatusPopup/Popup/StatusSettings/JoinMeStatus/Description",
+			"lang": "来找我玩: 自动接受加入请求",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Popups/UpdateStatusPopup/Popup/StatusSettings/OnlineStatus/Description",
+			"lang": "在线: 可以看到加入请求",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Popups/UpdateStatusPopup/Popup/StatusSettings/AskMeStatus/Description",
+			"lang": "不想被打扰: 隐藏当前所在地图，可以看到加入请求",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Popups/UpdateStatusPopup/Popup/StatusSettings/DoNotDisturbStatus/Description",
+			"lang": "请勿打扰: 隐藏当前所在地图，隐藏加入请求",
+			"component": "Text"
+		},
+
+		{
+			"path": "UserInterface/MenuContent/Screens/Social/Vertical Scroll View/Viewport/Content/InRoom/Button/TitleText",
+			"lang": "在当前房间内",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Social/Vertical Scroll View/Viewport/Content/OnlineFriends/Button/TitleText",
+			"lang": "在线的好友",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Social/Vertical Scroll View/Viewport/Content/OfflineFriends/Button/TitleText",
+			"lang": "离线的好友(展开以显示)",
+			"component": "Text"
+		},
+
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/TitlePanel/TitleText",
+			"lang": "设置",
+			"component": "Text"
+		},
+
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/Button_EditBindings/Text",
+			"lang": "按键绑定",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/Button_AdvancedOptions/Text",
+			"lang": "高级设置",
+			"component": "Text"
+		},
+
+		{
+			"path": "UserInterface/MenuContent/Popups/AdvancedSettingsPopup/Popup/Pages/Page_ClearData/Options/ClearCache/Button_Clear/Text",
+			"lang": "清除已下载的内容",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Popups/AdvancedSettingsPopup/Popup/Pages/Page_ClearData/Options/ClearProfile/Text",
+			"lang": "清除本地个人资料数据",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Popups/AdvancedSettingsPopup/Popup/Pages/Page_ClearData/Options/ClearAvatar/Text",
+			"lang": "清除本地模型数据",
+			"component": "Text"
+		},
+
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/ComfortSafetyPanel/TitleText (1)",
+			"lang": "舒适和安全",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/ComfortSafetyPanel/HoloportToggle/Label",
+			"lang": "以传送作为移动方式",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/ComfortSafetyPanel/ComfortTurnToggle/Label",
+			"lang": "以特定角度转向",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/ComfortSafetyPanel/PersonalSpaceToggle/Label",
+			"lang": "私人空间",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/ComfortSafetyPanel/AllowUntrustedURL/Label",
+			"lang": "允许非HTTPS链接",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/ComfortSafetyPanel/StreamerModeToggle/Label",
+			"lang": "直播模式",
+			"component": "Text"
+		},
+
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/VoiceOptionsPanel/TitleText (1)",
+			"lang": "语音选项",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/VoiceOptionsPanel/HardwareConfigToggle (1)/Label",
+			"lang": "开关式麦克风",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/VoiceOptionsPanel/HardwareConfigToggle (4)/Label",
+			"lang": "默认打开麦克风",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/VoiceOptionsPanel/HardwareConfigToggle (6)/Label",
+			"lang": "关闭麦克风按钮",
+			"component": "Text"
+		},
+
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/VolumePanel/TitleText (1)",
+			"lang": "声音选项",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/VolumePanel/VolumeMaster/Label",
+			"lang": "主音量",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/VolumePanel/VolumeUi/Label",
+			"lang": "菜单 音量",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/VolumePanel/VolumeGameWorld/Label",
+			"lang": "世界音量",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/VolumePanel/VolumeGameVoice/Label",
+			"lang": "语音音量",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/VolumePanel/VolumeGameAvatars/Label",
+			"lang": "头像音量",
+			"component": "Text"
+		},
+
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/OtherOptionsPanel/TitleText (1)",
+			"lang": "杂项",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/OtherOptionsPanel/TooltipsToggle/Label",
+			"lang": "显示工具提示",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/OtherOptionsPanel/3PRotationToggle/Label",
+			"lang": "第三人称旋转",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/OtherOptionsPanel/SkipGoButtonInLoad/Label",
+			"lang": "加载完成后直接进入地图",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/OtherOptionsPanel/AllowAvatarCopyingToggle/Label",
+			"lang": "允许被复制模型",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/OtherOptionsPanel/DesktopReticle/Label",
+			"lang": "PC端准星",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/OtherOptionsPanel/ViveAdvancedToggle/Label",
+			"lang": "VIVE高级控制",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/OtherOptionsPanel/ShowCommunityLabsToggle/Label",
+			"lang": "显示社区图标",
+			"component": "Text"
+		},
+
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/AudioDevicePanel/TitleText",
+			"lang": "麦克风",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/AudioDevicePanel/LevelText",
+			"lang": "音量",
+			"component": "Text"
+		},
+
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/MousePanel/TitleText",
+			"lang": "鼠标",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/MousePanel/MouseSensitivityText",
+			"lang": "鼠标灵敏度",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/MousePanel/InvertedMouse/Label",
+			"lang": "反转鼠标Y轴",
+			"component": "Text"
+		},
+
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/HeightPanel/TitleText (1)",
+			"lang": "用户真实身高",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/MousePanel/InvertedMouse/Label",
+			"lang": "反转鼠标Y轴",
+			"component": "Text"
+		},
+
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/UserVolumeOptions/Button_ClearChanges/Text",
+			"lang": "重设用户音量",
+			"component": "Text"
+		},
+
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/Footer/Logout/Text",
+			"lang": "退出登录",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings/Footer/Exit/Text",
+			"lang": "退出VRChat",
+			"component": "Text"
+		},
+
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings_Safety/TitlePanel/TitleText",
+			"lang": "设置模型功能保护等级",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings_Safety/TitlePanel/Button_PerformanceOptions/Text",
+			"lang": "性能选项",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings_Safety/_Buttons_SafetyLevel/Button_Maxiumum/ON/TopPanel_SafetyLevel/Text",
+			"lang": "模式",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings_Safety/_Buttons_SafetyLevel/Button_Normal/ON/TopPanel_SafetyLevel/Text",
+			"lang": "模式",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings_Safety/_Buttons_SafetyLevel/Button_None/ON/TopPanel_SafetyLevel/Text",
+			"lang": "模式",
+			"component": "Text"
+		},
+
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings_Safety/_Buttons_SafetyLevel/Button_Maxiumum/OFF/Text_Maximum",
+			"lang": "性能最好",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings_Safety/_Buttons_SafetyLevel/Button_Maxiumum/ON/Text_Maximum",
+			"lang": "性能最好",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings_Safety/_Description_SafetyLevel/Text",
+			"lang": "这是最安全的模式，它会关掉除了/可信任/和/好友/等级以外的所有人的模型以及特效",
+			"component": "Text"
+		},
+
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings_Safety/_Buttons_SafetyLevel/Button_Normal/OFF/Text_normal",
+			"lang": "性能兼顾特效",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings_Safety/_Buttons_SafetyLevel/Button_Normal/ON/Text_normal",
+			"lang": "性能兼顾特效",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings_Safety/_Description_SafetyLevel/Text",
+			"lang": "这是当你要想要看到别人模型的同时想要性能，就用这个",
+			"component": "Text"
+		},
+
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings_Safety/_Buttons_SafetyLevel/Button_None/OFF/Text_None",
+			"lang": "特效全开",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings_Safety/_Buttons_SafetyLevel/Button_None/ON/Text_None",
+			"lang": "特效全开",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings_Safety/_Description_SafetyLevel/Text",
+			"lang": "说真的，如果你电脑并不是什么顶级水平，我真的不建议你用这个，VRChat几乎没有任何优化",
+			"component": "Text"
+		},
+
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings_Safety/_Buttons_SafetyLevel/Button_Custom/OFF/Text_Custom",
+			"lang": "自定义",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings_Safety/_Buttons_SafetyLevel/Button_Custom/ON/Text_Custom",
+			"lang": "自定义",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings_Safety/_Description_SafetyLevel/Text",
+			"lang": "设置一下你自己想要的东西吧",
+			"component": "Text"
+		},
+
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings_Safety/_Buttons_UserLevel/Button_Visitor/Text",
+			"lang": "初来乍到",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings_Safety/_Buttons_UserLevel/Button_New/Text",
+			"lang": "新用户",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings_Safety/_Buttons_UserLevel/Button_User/Text",
+			"lang": "用户",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings_Safety/_Buttons_UserLevel/Button_Trusted/Text",
+			"lang": "已知用户",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings_Safety/_Buttons_UserLevel/Button_Advanced/Text",
+			"lang": "值得信赖",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings_Safety/_Buttons_UserLevel/Button_Friends/Text",
+			"lang": "好友",
+			"component": "Text"
+		},
+
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings_Safety/_SafetyMatrix/_Toggles/Toggle_voice/Text_Header",
+			"lang": "语音",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings_Safety/_SafetyMatrix/_Toggles/Toggle_Avatar/Text_Header",
+			"lang": "模型",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings_Safety/_SafetyMatrix/_Toggles/Toggle_UserIcons/Text_Header",
+			"lang": "用户图标",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings_Safety/_SafetyMatrix/_Toggles/Toggle_Audio/Text_Header",
+			"lang": "音效",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings_Safety/_SafetyMatrix/_Toggles/Toggle_Particles/Text_Header",
+			"lang": "光源和粒子",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings_Safety/_SafetyMatrix/_Toggles/Toggle_Shaders/Text_Header",
+			"lang": "渲染器",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Settings_Safety/_SafetyMatrix/_Toggles/Toggle_CustomAnimations/Text_Header",
+			"lang": "自定义动作",
+			"component": "Text"
+		},
+
+		{
+			"path": "UserInterface/MenuContent/Popups/PerformanceSettingsPopup/Popup/TitleText",
+			"lang": "性能选项",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Popups/PerformanceSettingsPopup/Popup/PageButtons/ViewPort/Content/AvatarPerformance/Button/Text",
+			"lang": "模型性能",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Popups/PerformanceSettingsPopup/Popup/Pages/Page_LimitAvatarPerformance/Options/PerformanceLimits/Text",
+			"lang": "我能看到的最低显示等级",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Popups/PerformanceSettingsPopup/Popup/Pages/Page_LimitAvatarPerformance/Options/Maximum Download Size/Text",
+			"lang": "最大允许的模型大小",
+			"component": "Text"
+		},
+
+		{
+			"path": "UserInterface/MenuContent/Popups/PerformanceSettingsPopup/Popup/PageButtons/ViewPort/Content/DynamicBone/Button/Text",
+			"lang": "动态骨骼",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Popups/PerformanceSettingsPopup/Popup/Pages/Page_LimitDynamicBone/Checkboxes/LimitDynamicBoneUsage/Description",
+			"lang": "限制动态骨骼",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Popups/PerformanceSettingsPopup/Popup/Pages/Page_LimitDynamicBone/Tooltip_DynamicBone/Text",
+			"lang": "动态骨骼...怎么说呢，打个比方吧，当你不限制动态骨骼的使用时，你会看到有些模型的头发具有物理效果，会随着移动而飘动",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Popups/PerformanceSettingsPopup/Popup/Pages/Page_LimitDynamicBone/Tooltip_Details/Text",
+			"lang": "如果你打开了限制，所有模型的动态骨骼都会被限制为特定值(包括你自己)，如果你想要自定义限制，可以根据我们的文档自己手动更改限制，点击下面的View Documentation查看说明",
+			"component": "Text"
+		},
+
+		{
+			"path": "UserInterface/MenuContent/Popups/PerformanceSettingsPopup/Popup/PageButtons/ViewPort/Content/AdvancedGraphics/Button/Text",
+			"lang": "高级选项",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Popups/PerformanceSettingsPopup/Popup/Pages/Page_AdvancedGraphics/Options/Graphics Quality/Text",
+			"lang": "画面质量",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Popups/PerformanceSettingsPopup/Popup/Pages/Page_AdvancedGraphics/Options/Antialiasing/Text",
+			"lang": "抗锯齿",
+			"component": "Text"
+		},
+
+		{
+			"path": "UserInterface/MenuContent/Screens/Avatar/Vertical Scroll View/Viewport/Content/Favorite Avatar List/Button/TitleText",
+			"lang": "已收藏的模型",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Avatar/Change Button/Label",
+			"lang": "更换到选中模型",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Screens/Avatar/Stats Button/Text",
+			"lang": "模型评级",
+			"component": "Text"
+		},
+		{
+			"path": "UserInterface/MenuContent/Popups/StandardPopup/BodyText",
+			"lang": "你确定要回到你的家里面？",
+			"component": "Text"
+		}
+	]
+
+}
