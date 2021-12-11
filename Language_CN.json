@@ -1,222 +1,289 @@
 {
 	"Objects": [{
-			"path": "UserInterface/QuickMenu/ShortcutMenu/WorldsButton/Text",
-			"lang": "世界",
-			"component": "Text"
+			"path": "UserInterface/Canvas_QuickMenu(Clone)/Container/Window/QMParent/Menu_Dashboard/Header_H1/LeftItemContainer/Text_Title",
+			"lang": "快捷菜单",
+			"component": "TextMeshProUGUI"
 		},
 		{
-			"path": "UserInterface/QuickMenu/ShortcutMenu/AvatarButton/Text",
+			"path": "UserInterface/Canvas_QuickMenu(Clone)/Container/Window/QMParent/Menu_Dashboard/ScrollRect/Viewport/VerticalLayoutGroup/Header_QuickLinks/LeftItemContainer/Text_Title",
+			"lang": "快捷链接",
+			"component": "TextMeshProUGUI"
+		},
+		{
+			"path": "UserInterface/Canvas_QuickMenu(Clone)/Container/Window/QMParent/Menu_Dashboard/ScrollRect/Viewport/VerticalLayoutGroup/Header_QuickActions/LeftItemContainer/Text_Title",
+			"lang": "快捷操作",
+			"component": "TextMeshProUGUI"
+		},
+		{
+			"path": "UserInterface/Canvas_QuickMenu(Clone)/Container/Window/QMParent/Menu_Dashboard/ScrollRect/Viewport/VerticalLayoutGroup/Buttons_QuickLinks/Button_Worlds/Text_H4",
+			"lang": "地图",
+			"component": "TextMeshProUGUI"
+		},	
+		{
+			"path": "UserInterface/Canvas_QuickMenu(Clone)/Container/Window/QMParent/Menu_Dashboard/ScrollRect/Viewport/VerticalLayoutGroup/Buttons_QuickLinks/Button_Avatars/Text_H4",
 			"lang": "模型",
-			"component": "Text"
-		},
+			"component": "TextMeshProUGUI"
+		},	
 		{
-			"path": "UserInterface/QuickMenu/ShortcutMenu/SocialButton/Text",
+			"path": "UserInterface/Canvas_QuickMenu(Clone)/Container/Window/QMParent/Menu_Dashboard/ScrollRect/Viewport/VerticalLayoutGroup/Buttons_QuickLinks/Button_Social/Text_H4",
 			"lang": "好友",
-			"component": "Text"
-		},
+			"component": "TextMeshProUGUI"
+		},	
 		{
-			"path": "UserInterface/QuickMenu/ShortcutMenu/SafetyButton/Text",
-			"lang": "安全",
-			"component": "Text"
-		},
+			"path": "UserInterface/Canvas_QuickMenu(Clone)/Container/Window/QMParent/Menu_Dashboard/ScrollRect/Viewport/VerticalLayoutGroup/Buttons_QuickLinks/Button_Safety/Text_H4",
+			"lang": "安全选项",
+			"component": "TextMeshProUGUI"
+		},	
 		{
-			"path": "UserInterface/QuickMenu/ShortcutMenu/GoHomeButton/Text",
-			"lang": "回家",
-			"component": "Text"
-		},
+			"path": "UserInterface/Canvas_QuickMenu(Clone)/Container/Window/QMParent/Menu_Dashboard/ScrollRect/Viewport/VerticalLayoutGroup/Buttons_QuickActions/Button_GoHome/Text_H4",
+			"lang": "回到默认地图",
+			"component": "TextMeshProUGUI"
+		},	
 		{
-			"path": "UserInterface/QuickMenu/ShortcutMenu/RespawnButton/Text",
-			"lang": "重生",
-			"component": "Text"
-		},
+			"path": "UserInterface/Canvas_QuickMenu(Clone)/Container/Window/QMParent/Menu_Dashboard/ScrollRect/Viewport/VerticalLayoutGroup/Buttons_QuickActions/Button_Respawn/Text_H4",
+			"lang": "出生点重生",
+			"component": "TextMeshProUGUI"
+		},	
 		{
-			"path": "UserInterface/QuickMenu/ShortcutMenu/SettingsButton/Text",
-			"lang": "设置",
-			"component": "Text"
-		},
+			"path": "UserInterface/Canvas_QuickMenu(Clone)/Container/Window/QMParent/Menu_Dashboard/ScrollRect/Viewport/VerticalLayoutGroup/Buttons_QuickActions/Button_SelectUser/Text_H4",
+			"lang": "选取一个用户",
+			"component": "TextMeshProUGUI"
+		},	
 		{
-			"path": "UserInterface/QuickMenu/ShortcutMenu/UIElementsButton/Text",
-			"lang": "UI设置",
-			"component": "Text"
-		},
-		{
-			"path": "UserInterface/QuickMenu/ShortcutMenu/CameraButton/Text",
-			"lang": "相机",
-			"component": "Text"
-		},
-		{
-			"path": "UserInterface/QuickMenu/ShortcutMenu/EmoteButton/Text",
-			"lang": "动作",
-			"component": "Text"
-		},
-		{
-			"path": "UserInterface/QuickMenu/ShortcutMenu/EmojiButton/Text",
+			"path": "UserInterface/Canvas_QuickMenu(Clone)/Container/Window/QMParent/Menu_Dashboard/ScrollRect/Viewport/VerticalLayoutGroup/Buttons_QuickActions/Button_Emojis/Text_H4",
 			"lang": "表情",
-			"component": "Text"
-		},
+			"component": "TextMeshProUGUI"
+		},	
 		{
-			"path": "UserInterface/QuickMenu/ShortcutMenu/ReportWorldButton/Text",
-			"lang": "举报当前地图",
-			"component": "Text"
-		},
-
+			"path": "UserInterface/Canvas_QuickMenu(Clone)/Container/Window/Wing_Left/Container/InnerContainer/Friends/WngHeader_H1/LeftItemContainer/Text_Title",
+			"lang": "好友",
+			"component": "TextMeshProUGUI"
+		},	
 		{
-			"path": "UserInterface/QuickMenu/ShortcutMenu/SitButton/Toggle_States_StandingEnabled/OFF/Text_standing",
-			"lang": "我正在站着玩",
-			"component": "Text"
-		},
+			"path": "UserInterface/Canvas_QuickMenu(Clone)/Container/Window/Wing_Right/Container/InnerContainer/Avatars/WngHeader_H1/LeftItemContainer/Text_Title",
+			"lang": "我的模型",
+			"component": "TextMeshProUGUI"
+		},	
 		{
-			"path": "UserInterface/QuickMenu/ShortcutMenu/SitButton/Toggle_States_StandingEnabled/ON/Text_standing",
-			"lang": "我正在站着玩",
-			"component": "Text"
-		},
+			"path": "UserInterface/Canvas_QuickMenu(Clone)/Container/Window/QMParent/Menu_Notifications/QMHeader_H1/LeftItemContainer/Text_Title",
+			"lang": "消息通知",
+			"component": "TextMeshProUGUI"
+		},	
 		{
-			"path": "UserInterface/QuickMenu/ShortcutMenu/SitButton/Toggle_States_StandingEnabled/OFF/Text_seated",
-			"lang": "我正在坐着玩",
-			"component": "Text"
-		},
+			"path": "UserInterface/Canvas_QuickMenu(Clone)/Container/Window/QMParent/Menu_Notifications/Panel_Notification_Tabs/Button_HideInvitePhotos/HidePhotos/Text_Title",
+			"lang": "隐藏邀请的地图",
+			"component": "TextMeshProUGUI"
+		},	
 		{
-			"path": "UserInterface/QuickMenu/ShortcutMenu/SitButton/Toggle_States_StandingEnabled/ON/Text_seated",
-			"lang": "我正在坐着玩",
-			"component": "Text"
-		},
-
+			"path": "UserInterface/Canvas_QuickMenu(Clone)/Container/Window/QMParent/Menu_Notifications/Panel_Notification_Tabs/Tabs/InvitesTab/Text",
+			"lang": "我的邀请",
+			"component": "TextMeshProUGUI"
+		},	
 		{
-			"path": "UserInterface/QuickMenu/QuickModeMenus/QuickModeNotificationsMenu/NotificationTabs/InvitesTab/Text",
-			"lang": "邀请",
-			"component": "Text"
-		},
-		{
-			"path": "UserInterface/QuickMenu/QuickModeMenus/QuickModeNotificationsMenu/NotificationTabs/FriendRequestsTab/Text",
+			"path": "UserInterface/Canvas_QuickMenu(Clone)/Container/Window/QMParent/Menu_Notifications/Panel_Notification_Tabs/Tabs/FriendRequestsTab/Text",
 			"lang": "好友请求",
-			"component": "Text"
+			"component": "TextMeshProUGUI"
+		},	
+		{
+			"path": "UserInterface/Canvas_QuickMenu(Clone)/Container/Window/QMParent/Menu_Notifications/Panel_Notification_Tabs/Tabs/OtherTab/Text",
+			"lang": "其它消息",
+			"component": "TextMeshProUGUI"
+		},	
+		{
+			"path": "UserInterface/Canvas_QuickMenu(Clone)/Container/Window/QMParent/Menu_Here/QMHeader_H1/LeftItemContainer/Text_Title",
+			"lang": "当前所在",
+			"component": "TextMeshProUGUI"
+		},	
+		{
+			"path": "UserInterface/Canvas_QuickMenu(Clone)/Container/Window/QMParent/Menu_Here/ScrollRect/Viewport/VerticalLayoutGroup/Header_WorldActions/LeftItemContainer/Text_Title",
+			"lang": "操作",
+			"component": "TextMeshProUGUI"
+		},	
+		{
+			"path": "UserInterface/Canvas_QuickMenu(Clone)/Container/Window/QMParent/Menu_Here/ScrollRect/Viewport/VerticalLayoutGroup/Buttons_WorldActions/Button_RejoinWorld/Text_H4",
+			"lang": "重新加入",
+			"component": "TextMeshProUGUI"
+		},	
+		{
+			"path": "UserInterface/Canvas_QuickMenu(Clone)/Container/Window/QMParent/Menu_Here/ScrollRect/Viewport/VerticalLayoutGroup/Buttons_WorldActions/Button_NewInstance/Text_H4",
+			"lang": "另开一个房间",
+			"component": "TextMeshProUGUI"
+		},	
+		{
+			"path": "UserInterface/Canvas_QuickMenu(Clone)/Container/Window/QMParent/Menu_Here/ScrollRect/Viewport/VerticalLayoutGroup/Buttons_WorldActions/Button_ReportWorld/Text_H4",
+			"lang": "举报当前地图",
+			"component": "TextMeshProUGUI"
+		},	
+		{
+			"path": "UserInterface/Canvas_QuickMenu(Clone)/Container/Window/QMParent/Menu_Here/ScrollRect/Viewport/VerticalLayoutGroup/QM_Header_UsersInWorld/LeftItemContainer/Text_Title",
+			"lang": "谁在这里:",
+			"component": "TextMeshProUGUI"
+		},	
+		{
+			"path": "UserInterface/Canvas_QuickMenu(Clone)/Container/Window/QMParent/Menu_Camera/Scrollrect/Viewport/VerticalLayoutGroup/Buttons/Button_Screenshot/Text_H4",
+			"lang": "截图(PC)",
+			"component": "TextMeshProUGUI"
+		},	
+		{
+			"path": "UserInterface/Canvas_QuickMenu(Clone)/Container/Window/QMParent/Menu_Camera/Scrollrect/Viewport/VerticalLayoutGroup/Buttons/Button_DynamicLight/Text_H4",
+			"lang": "动态光源(VR)",
+			"component": "TextMeshProUGUI"
+		},	
+		{
+			"path": "UserInterface/Canvas_QuickMenu(Clone)/Container/Window/QMParent/Menu_Camera/Scrollrect/Viewport/VerticalLayoutGroup/Buttons/Button_PhotoCamera/Text_H4",
+			"lang": "照相机(VR)",
+			"component": "TextMeshProUGUI"
+		},	
+		{
+			"path": "UserInterface/Canvas_QuickMenu(Clone)/Container/Window/QMParent/Menu_Camera/Scrollrect/Viewport/VerticalLayoutGroup/Buttons/Button_StreamCamera/Text_H4",
+			"lang": "直播摄像机(VR)",
+			"component": "TextMeshProUGUI"
+		},	
+		{
+			"path": "UserInterface/Canvas_QuickMenu(Clone)/Container/Window/QMParent/Menu_Camera/Scrollrect/Viewport/VerticalLayoutGroup/Buttons/Button_Steadycam/Text_H4",
+			"lang": "防抖照相机(VR)",
+			"component": "TextMeshProUGUI"
+		},	
+		{
+			"path": "UserInterface/Canvas_QuickMenu(Clone)/Container/Window/QMParent/Menu_Camera/Scrollrect/Viewport/VerticalLayoutGroup/Buttons/Button_IconCamera/Text_H4",
+			"lang": "图标照相机(VR)",
+			"component": "TextMeshProUGUI"
+		},	
+		{
+			"path": "UserInterface/Canvas_QuickMenu(Clone)/Container/Window/QMParent/Menu_AudioSettings/QMHeader_H1/LeftItemContainer/Text_Title",
+			"lang": "音频",
+			"component": "TextMeshProUGUI"
+		},	
+		{
+			"path": "UserInterface/Canvas_QuickMenu(Clone)/Container/Window/QMParent/Menu_AudioSettings/Content/Header_H2/LeftItemContainer/Text_Title",
+			"lang": "音量",
+			"component": "TextMeshProUGUI"
+		},	
+		{
+			"path": "UserInterface/Canvas_QuickMenu(Clone)/Container/Window/QMParent/Menu_AudioSettings/Content/Audio/VolumeSlider_Master/Text_QM_H4",
+			"lang": "主音量",
+			"component": "TextMeshProUGUI"
+		},	
+		{
+			"path": "UserInterface/Canvas_QuickMenu(Clone)/Container/Window/QMParent/Menu_AudioSettings/Content/Audio/VolumeSlider_World/Text_QM_H4",
+			"lang": "地图音量",
+			"component": "TextMeshProUGUI"
+		},	
+		{
+			"path": "UserInterface/Canvas_QuickMenu(Clone)/Container/Window/QMParent/Menu_AudioSettings/Content/Audio/VolumeSlider_Voices/Text_QM_H4",
+			"lang": "麦克风音量",
+			"component": "TextMeshProUGUI"
+		},	
+		{
+			"path": "UserInterface/Canvas_QuickMenu(Clone)/Container/Window/QMParent/Menu_AudioSettings/Content/Audio/VolumeSlider_Avatars/Text_QM_H4",
+			"lang": "模型音量",
+			"component": "TextMeshProUGUI"
+		},	
+		{
+			"path": "UserInterface/Canvas_QuickMenu(Clone)/Container/Window/QMParent/Menu_AudioSettings/Content/Header_H2 (1)/LeftItemContainer/Text_Title",
+			"lang": "麦克风",
+			"component": "TextMeshProUGUI"
+		},	
+		{
+			"path": "UserInterface/Canvas_QuickMenu(Clone)/Container/Window/QMParent/Menu_AudioSettings/Content/Mic/CurrentMic/ChangeMic/Text_MM_H3",
+			"lang": "更改语音设备",
+			"component": "TextMeshProUGUI"
+		},	
+		{
+			"path": "UserInterface/Canvas_QuickMenu(Clone)/Container/Window/QMParent/Menu_AudioSettings/Content/Mic/InputLevel/Sliders/MicSensitivitySlider/Text_QM_H4",
+			"lang": "麦克风音量",
+			"component": "TextMeshProUGUI"
+		},	
+		{
+			"path": "UserInterface/Canvas_QuickMenu(Clone)/Container/Window/QMParent/Menu_Settings/QMHeader_H1/LeftItemContainer/Text_Title",
+			"lang": "设置",
+			"component": "TextMeshProUGUI"
+		},	
+		{
+			"path": "UserInterface/Canvas_QuickMenu(Clone)/Container/Window/QMParent/Menu_Settings/Panel_QM_ScrollRect/Viewport/VerticalLayoutGroup/Header_UI_Elements/LeftItemContainer/Text_Title",
+			"lang": "UI元素",
+			"component": "TextMeshProUGUI"
+		},	
+		{
+			"path": "UserInterface/Canvas_QuickMenu(Clone)/Container/Window/QMParent/Menu_Settings/Panel_QM_ScrollRect/Viewport/VerticalLayoutGroup/Buttons_UI_Elements_Row_1/Button_NameplateControls/Buttons/Button B/Text_H4",
+			"lang": "名字标签显示",
+			"component": "TextMeshProUGUI"
+		},	
+		{
+			"path": "UserInterface/Canvas_QuickMenu(Clone)/Container/Window/QMParent/Menu_Settings/Panel_QM_ScrollRect/Viewport/VerticalLayoutGroup/Buttons_UI_Elements_Row_1/Button_ToggleQMInfo/Text_H4",
+			"lang": "快捷菜单信息",
+			"component": "TextMeshProUGUI"
 		},
 		{
-			"path": "UserInterface/QuickMenu/QuickModeMenus/QuickModeNotificationsMenu/NotificationTabs/OtherTab/Text",
-			"lang": "其它",
-			"component": "Text"
+			"path": "UserInterface/Canvas_QuickMenu(Clone)/Container/Window/QMParent/Menu_Settings/Panel_QM_ScrollRect/Viewport/VerticalLayoutGroup/Buttons_UI_Elements_Row_1/Button_NameplateSettings/Text_H4",
+			"lang": "名字标签设置",
+			"component": "TextMeshProUGUI"
+		},	
+		{
+			"path": "UserInterface/Canvas_QuickMenu(Clone)/Container/Window/QMParent/Menu_Settings/Panel_QM_ScrollRect/Viewport/VerticalLayoutGroup/Buttons_UI_Elements_Row_2/Button_ToggleFallbackIcon/Text_H4",
+			"lang": "后备模型图标显示",
+			"component": "TextMeshProUGUI"
+		},	
+		{
+			"path": "UserInterface/Canvas_QuickMenu(Clone)/Container/Window/QMParent/Menu_Settings/Panel_QM_ScrollRect/Viewport/VerticalLayoutGroup/Header_Debug/LeftItemContainer/Text_Title",
+			"lang": "调试信息",
+			"component": "TextMeshProUGUI"
+		},	
+		{
+			"path": "UserInterface/Canvas_QuickMenu(Clone)/Container/Window/QMParent/Menu_Settings/Panel_QM_ScrollRect/Viewport/VerticalLayoutGroup/Buttons_Debug/Button_PinFPSAndPing/Text_H4",
+			"lang": "顶部显示FPS/PING",
+			"component": "TextMeshProUGUI"
 		},
 		{
-			"path": "UserInterface/QuickMenu/UserInteractMenu/DetailsButton/Text",
-			"lang": "用户个人资料",
-			"component": "Text"
+			"path": "UserInterface/Canvas_QuickMenu(Clone)/Container/Window/Wing_Left/Container/InnerContainer/WingMenu/ScrollRect/Viewport/VerticalLayoutGroup/Button_Profile/Container/Text_QM_H3",
+			"lang": "个人资料卡",
+			"component": "TextMeshProUGUI"
 		},
 		{
-			"path": "UserInterface/QuickMenu/UserInteractMenu/CloneAvatarButton/Text",
-			"lang": "复制Ta的模型",
-			"component": "Text"
+			"path": "UserInterface/Canvas_QuickMenu(Clone)/Container/Window/Wing_Right/Container/InnerContainer/WingMenu/ScrollRect/Viewport/VerticalLayoutGroup/Button_Profile/Container/Text_QM_H3",
+			"lang": "个人资料卡",
+			"component": "TextMeshProUGUI"
 		},
 		{
-			"path": "UserInterface/QuickMenu/UserInteractMenu/ShowAuthorButton/Text",
-			"lang": "查看Ta模型的作者",
-			"component": "Text"
+			"path": "UserInterface/Canvas_QuickMenu(Clone)/Container/Window/Wing_Left/Container/InnerContainer/WingMenu/ScrollRect/Viewport/VerticalLayoutGroup/Button_Friends/Container/Text_QM_H3",
+			"lang": "好友",
+			"component": "TextMeshProUGUI"
 		},
 		{
-			"path": "UserInterface/QuickMenu/UserInteractMenu/BackButton/Text",
-			"lang": "返回",
-			"component": "Text"
+			"path": "UserInterface/Canvas_QuickMenu(Clone)/Container/Window/Wing_Right/Container/InnerContainer/WingMenu/ScrollRect/Viewport/VerticalLayoutGroup/Button_Friends/Container/Text_QM_H3",
+			"lang": "好友",
+			"component": "TextMeshProUGUI"
 		},
 		{
-			"path": "UserInterface/QuickMenu/UserInteractMenu/BlockButton/Toggle_States_Visible/ON/Text_Visible",
-			"lang": "取消屏蔽",
-			"component": "Text"
+			"path": "UserInterface/Canvas_QuickMenu(Clone)/Container/Window/Wing_Left/Container/InnerContainer/WingMenu/ScrollRect/Viewport/VerticalLayoutGroup/Button_Avatars/Container/Text_QM_H3",
+			"lang": "模型",
+			"component": "TextMeshProUGUI"
 		},
 		{
-			"path": "UserInterface/QuickMenu/UserInteractMenu/BlockButton/Toggle_States_Visible/OFF/Text_Visible",
-			"lang": "取消屏蔽",
-			"component": "Text"
+			"path": "UserInterface/Canvas_QuickMenu(Clone)/Container/Window/Wing_Right/Container/InnerContainer/WingMenu/ScrollRect/Viewport/VerticalLayoutGroup/Button_Avatars/Container/Text_QM_H3",
+			"lang": "模型",
+			"component": "TextMeshProUGUI"
 		},
 		{
-			"path": "UserInterface/QuickMenu/UserInteractMenu/BlockButton/Toggle_States_Visible/ON/Text_Blocked",
-			"lang": "屏蔽",
-			"component": "Text"
+			"path": "UserInterface/Canvas_QuickMenu(Clone)/Container/Window/Wing_Left/Container/InnerContainer/WingMenu/ScrollRect/Viewport/VerticalLayoutGroup/Button_Emoji/Container/Text_QM_H3",
+			"lang": "表情",
+			"component": "TextMeshProUGUI"
 		},
 		{
-			"path": "UserInterface/QuickMenu/UserInteractMenu/BlockButton/Toggle_States_Visible/OFF/Text_Blocked",
-			"lang": "屏蔽",
-			"component": "Text"
+			"path": "UserInterface/Canvas_QuickMenu(Clone)/Container/Window/Wing_Right/Container/InnerContainer/WingMenu/ScrollRect/Viewport/VerticalLayoutGroup/Button_Emoji/Container/Text_QM_H3",
+			"lang": "表情",
+			"component": "TextMeshProUGUI"
 		},
 		{
-			"path": "UserInterface/QuickMenu/UserInteractMenu/ViewAvatarThreeToggle/Button_ShowAvatar/ToggleStates_ShowAvatar/OFF/Text",
-			"lang": "显示完整模型",
-			"component": "Text"
+			"path": "UserInterface/Canvas_QuickMenu(Clone)/Container/Window/Wing_Left/Container/InnerContainer/WingMenu/ScrollRect/Viewport/VerticalLayoutGroup/Button_Emotes/Container/Text_QM_H3",
+			"lang": "模型菜单",
+			"component": "TextMeshProUGUI"
 		},
 		{
-			"path": "UserInterface/QuickMenu/UserInteractMenu/ViewAvatarThreeToggle/Button_ShowAvatar/ToggleStates_ShowAvatar/ON/Text",
-			"lang": "显示完整模型",
-			"component": "Text"
+			"path": "UserInterface/Canvas_QuickMenu(Clone)/Container/Window/Wing_Right/Container/InnerContainer/WingMenu/ScrollRect/Viewport/VerticalLayoutGroup/Button_Emotes/Container/Text_QM_H3",
+			"lang": "模型菜单",
+			"component": "TextMeshProUGUI"
 		},
-		{
-			"path": "UserInterface/QuickMenu/UserInteractMenu/ViewAvatarThreeToggle/Button_HideAvatar/ToggleStates_HideAvatar/OFF/Text",
-			"lang": "关闭显示模型",
-			"component": "Text"
-		},
-		{
-			"path": "UserInterface/QuickMenu/UserInteractMenu/ViewAvatarThreeToggle/Button_HideAvatar/ToggleStates_HideAvatar/ON/Text",
-			"lang": "关闭显示模型",
-			"component": "Text"
-		},
-		{
-			"path": "UserInterface/QuickMenu/UserInteractMenu/ViewAvatarThreeToggle/Button_UseSafetySettings/ToggleStates_UseSafetySettings/OFF/Text",
-			"lang": "使用安全设置",
-			"component": "Text"
-		},
-		{
-			"path": "UserInterface/QuickMenu/UserInteractMenu/ViewAvatarThreeToggle/Button_UseSafetySettings/ToggleStates_UseSafetySettings/ON/Text",
-			"lang": "使用安全设置",
-			"component": "Text"
-		},
-		{
-			"path": "UserInterface/QuickMenu/UserInteractMenu/User Volume/VolumeText",
-			"lang": "语音音量",
-			"component": "Text"
-		},
-		{
-			"path": "UserInterface/QuickMenu/UserInteractMenu/User Volume/Raise/Text",
-			"lang": "音量+",
-			"component": "Text"
-		},
-		{
-			"path": "UserInterface/QuickMenu/UserInteractMenu/User Volume/Lower/Text",
-			"lang": "音量-",
-			"component": "Text"
-		},
-		{
-			"path": "UserInterface/QuickMenu/UserInteractMenu/User Volume/Reset/Text",
-			"lang": "重置音量",
-			"component": "Text"
-		},
-		{
-			"path": "UserInterface/QuickMenu/UserInteractMenu/MuteButton/Toggle_States_Voice/ON/Text_AudioOn",
-			"lang": "打开语音",
-			"component": "Text"
-		},
-		{
-			"path": "UserInterface/QuickMenu/UserInteractMenu/MuteButton/Toggle_States_Voice/OFF/Text_AudioOn",
-			"lang": "打开语音",
-			"component": "Text"
-		},
-		{
-			"path": "UserInterface/QuickMenu/UserInteractMenu/MuteButton/Toggle_States_Voice/ON/Text_Muted",
-			"lang": "屏蔽语音",
-			"component": "Text"
-		},
-		{
-			"path": "UserInterface/QuickMenu/UserInteractMenu/MuteButton/Toggle_States_Voice/OFF/Text_Muted",
-			"lang": "屏蔽语音",
-			"component": "Text"
-		},
-		{
-			"path": "UserInterface/QuickMenu/UserInteractMenu/ShowAvatarStatsButton/Text",
-			"lang": "显示Ta的模型等级",
-			"component": "Text"
-		},
-		{
-			"path": "UserInterface/QuickMenu/UserInteractMenu/ViewPlaylistsButton/Text",
-			"lang": "查看Ta收藏的地图",
-			"component": "Text"
-		},
-
 		{
 			"path": "UserInterface/MenuContent/Backdrop/Header/Tabs/ViewPort/Content/VRC+PageTab/Button/Text",
 			"lang": "VRC+",
